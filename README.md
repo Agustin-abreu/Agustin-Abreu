@@ -1,6 +1,6 @@
 ### Hi [Agustin Abreu] there 👋
 
- [![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=%231DA1F2&label=Agustin_abreu1&logo=Twitter&style=for-the-badge) [https://twitter.com/Agustin_Abreu1]]
+ [![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=%231DA1F2&label=Agustin_abreu1&logo=Twitter&style=for-the-badge) https://twitter.com/Agustin_Abreu1]
 
 
 Here are some ideas to get you started:
