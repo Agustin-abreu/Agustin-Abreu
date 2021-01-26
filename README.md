@@ -1,7 +1,9 @@
 ### Hi [Agustin Abreu] there 👋
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=%231DA1F2&label=Agustin_abreu1&logo=Twitter&style=for-the-badge (https://twitter.com/Agustin_Abreu1)
 ) 
-
+<img align="left" width="26px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> 
+<br>
 ### 💻 Desarrollador Front-End
 
 
@@ -12,7 +14,7 @@
 - ⚡ Dato curioso: Soy muy fan del deporte y en especial del futbol
 ---
 
-### 🚀 Codigo 
+### 🚀Languajes y herramientas 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -26,15 +28,13 @@
 
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" 
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" 
 />
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+
 <img align= "left" width= "26px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
-
 <br/>
-
-
-
 
 
 
