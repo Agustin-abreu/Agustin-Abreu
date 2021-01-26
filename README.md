@@ -1,18 +1,44 @@
 ### Hi [Agustin Abreu] there 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=%231DA1F2&label=Agustin_abreu1&logo=Twitter&style=for-the-badge)] (https://twitter.com/Agustin_Abreu1)
 
- [![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=%231DA1F2&label=Agustin_abreu1&logo=Twitter&style=for-the-badge) https://twitter.com/Agustin_Abreu1]
+### 💻 Desarrollador Front-End
 
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando como Freelance Web developer
+- 🌱 Actualmente estoy aprendiendo framerwork React y Redux
+- 👯 Estoy buscando colaborar en mentorias o proyectos    solidarios 
+- 💬 Preguntame sobre como ser un desarrollador Web 
+- ⚡ Dato curioso: Soy muy fan del deporte y en especial del futbol
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### 🚀 Codigo 
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
+
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
+
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
+
+
+[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
+
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/WordPress/WordPress.png" />][yt]
+
+
+
+<br/>
+
+
+
+
+
+
+
 
 <!--LINKS-->
 
