@@ -1,5 +1,7 @@
 ### Hi [Agustin Abreu] there 👋
-<img align="left" width="26px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png" link= "https://www.linkedin.com/in/agustin-abreu-frontend/">
+<a href="https://www.linkedin.com/in/agustin-abreu-frontend/">
+<img align="left" width="26px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png">
+<a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Agustin_Abreu1?color=1DA1F2&label=Agustin_Abreu1&logo=Twitter&style=for-the-badge)](https://twitter.com/Agustin_Abreu1)
 
