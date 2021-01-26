@@ -1,4 +1,4 @@
-### Hi [Agustin Abreu] [website] there 👋
+### Hi [Agustin Abreu] there 👋
 
 
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 <!-->LINKS <!-->
 
-[website]: https://agustin-abreu-front-end.netlify.app/ 
+[Agustin Abreu]: https://agustin-abreu-front-end.netlify.app/ 
