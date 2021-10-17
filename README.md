@@ -9,7 +9,7 @@
 
 ### 💻 Desarrollador Front-End
 
-- 🔭 Actualmente estoy trabajando como Freelance Web developer
+- 🔭 Actualmente estoy trabajando como Web Developer en Patagonia Digital 
 - 🌱 Estoy aprendiendo framerwork React y Redux
 - 👯 Estoy buscando colaborar en mentorias o proyectos solidarios 
 - 💬 Preguntame sobre como ser un Desarrollador Web 
@@ -44,4 +44,3 @@
 
 <!--LINKS-->
 
-[Agustin Abreu]: https://agustin-abreu-front-end.netlify.app/ 
